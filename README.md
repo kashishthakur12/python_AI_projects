@@ -1,1 +1,1 @@
-# python_project_jarvis
+# python_practicesproject
